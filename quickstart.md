@@ -20,6 +20,3 @@ To package the source code into static files for the Chrome webstore, execute `n
 
 ## Documentation
 Refer to [the Chrome developer documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/) to get started.
-
-## VSCode developer tools
-Refer to [github.com/gadhagod/vscode-chrome-extension-developer-tools/blob/master/README.md#commands](https://github.com/gadhagod/vscode-chrome-extension-developer-tools/blob/master/README.md#commands).
