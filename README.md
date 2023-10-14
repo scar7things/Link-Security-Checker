@@ -1,4 +1,8 @@
 # Link-Security-Checker
+
+i'm still working and testing on this project , reach out 
+ 
+ 
  ...
 # Link Security Checker Extension
 
@@ -22,7 +26,6 @@ Explain briefly what your project is about and what problem it solves. Include a
 List the features of your extension:
 
 - Security checking of links before clicking
-- [Add more features here]
 
 ## Installation
 
