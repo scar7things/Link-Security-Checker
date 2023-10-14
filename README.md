@@ -1,6 +1,6 @@
 # Link-Security-Checker
 
-i'm still working and testing on this project , reach out 
+i'm still working and testing on this project , feel free
  
  
  ...
