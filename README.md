@@ -39,7 +39,7 @@ Provide instructions on how to use your extension:
 
 1. Open your browser and navigate to a webpage.
 2. Click on the extension icon in the toolbar.
-3. [Add steps on how to use the extension]
+
 
 ## Contributing
 
