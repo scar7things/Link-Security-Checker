@@ -16,7 +16,7 @@
     "array.prototype.reduce": "^1.0.6",
     "arraybuffer.prototype.slice": "^1.0.2",
     "available-typed-arrays": "^1.0.5",
-    "axios": "^0.21.4",
+    "axios": "^1.6.0",
     "balanced-match": "^1.0.2",
     "big.js": "^5.2.2",
     "brace-expansion": "^1.1.11",
