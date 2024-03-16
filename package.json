@@ -70,7 +70,7 @@
     "fill-range": "^7.0.1",
     "find-cache-dir": "^3.3.2",
     "find-up": "^4.1.0",
-    "follow-redirects": "^1.15.4",
+    "follow-redirects": "^1.15.6",
     "for-each": "^0.3.3",
     "fs-minipass": "^2.1.0",
     "fs.realpath": "^1.0.0",
